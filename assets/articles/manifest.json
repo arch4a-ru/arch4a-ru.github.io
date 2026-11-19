@@ -1,0 +1,148 @@
+{
+  "facade-day": {
+    "folder": "dom-227",
+    "width": 878,
+    "height": 1202,
+    "widths": [
+      480,
+      800,
+      878
+    ],
+    "plan": false,
+    "source": "Снимок экрана 2026-11-07 102004.png"
+  },
+  "facade-evening": {
+    "folder": "dom-227",
+    "width": 866,
+    "height": 1187,
+    "widths": [
+      480,
+      800,
+      866
+    ],
+    "plan": false,
+    "source": "Снимок экрана 2026-11-07 102029.png"
+  },
+  "terrace": {
+    "folder": "dom-227",
+    "width": 842,
+    "height": 1160,
+    "widths": [
+      480,
+      800,
+      842
+    ],
+    "plan": false,
+    "source": "Снимок экрана 2026-11-07 102153.png"
+  },
+  "sunset": {
+    "folder": "dom-227",
+    "width": 844,
+    "height": 1158,
+    "widths": [
+      480,
+      800,
+      844
+    ],
+    "plan": false,
+    "source": "Снимок экрана 2026-11-07 102212.png"
+  },
+  "bath-day": {
+    "folder": "dom-227",
+    "width": 801,
+    "height": 1164,
+    "widths": [
+      480,
+      800,
+      801
+    ],
+    "plan": false,
+    "source": "Снимок экрана 2026-11-07 105330.png"
+  },
+  "bath-evening": {
+    "folder": "dom-227",
+    "width": 796,
+    "height": 1157,
+    "widths": [
+      480,
+      796
+    ],
+    "plan": false,
+    "source": "Снимок экрана 2026-11-07 105644.png"
+  },
+  "plan-floor-1": {
+    "folder": "dom-227",
+    "width": 1792,
+    "height": 2400,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ],
+    "plan": true,
+    "source": "план1 эт.jpg"
+  },
+  "plan-floor-2": {
+    "folder": "dom-227",
+    "width": 1792,
+    "height": 2400,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ],
+    "plan": true,
+    "source": "План2 этаж.jpg"
+  },
+  "plan-bath": {
+    "folder": "dom-227",
+    "width": 2048,
+    "height": 2048,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ],
+    "plan": true,
+    "source": "план бани.jpg"
+  },
+  "cover": {
+    "folder": "adapt-2024",
+    "width": 1080,
+    "height": 607,
+    "widths": [
+      480,
+      800,
+      1080
+    ],
+    "plan": false,
+    "source": "дневной3.jpg"
+  },
+  "evening": {
+    "folder": "adapt-2024",
+    "width": 1080,
+    "height": 1780,
+    "widths": [
+      480,
+      800,
+      1080
+    ],
+    "plan": false,
+    "source": "вечерний вид.jpg"
+  },
+  "day": {
+    "folder": "adapt-2024",
+    "width": 1080,
+    "height": 607,
+    "widths": [
+      480,
+      800,
+      1080
+    ],
+    "plan": false,
+    "source": "дневной4.jpg"
+  }
+}

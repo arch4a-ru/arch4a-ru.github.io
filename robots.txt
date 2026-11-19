@@ -1,0 +1,11 @@
+# Александр Чайников — архитектура
+# Правила для поисковых роботов.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://arch4a-ru.github.io/sitemap.xml
+
+# Служебные и временные файлы не индексируются.
+Disallow: /__*
+Disallow: /README.md
