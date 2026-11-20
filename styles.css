@@ -3218,6 +3218,23 @@ html.no-js .catalog-filter { display: none; }
   font-weight: 500;
   line-height: 1.4;
 }
+.resume-id {
+  display: flex;
+  align-items: flex-end;
+  gap: clamp(16px, 2vw, 30px);
+}
+.resume-id-text { min-width: 0; }
+.resume-id h1 { font-size: clamp(2.4rem, 5.6vw, 4.6rem); }
+.resume-photo {
+  flex: none;
+  width: clamp(150px, 14vw, 188px);
+  aspect-ratio: 4 / 5;
+  margin: 0;
+  overflow: hidden;
+  background: var(--surface);
+}
+.resume-photo picture { display: block; width: 100%; height: 100%; }
+.resume-photo img { width: 100%; height: 100%; object-fit: cover; }
 .resume-head-side {
   grid-column: 9 / span 4;
   font-size: 15.5px;
@@ -3470,6 +3487,8 @@ html.no-js .catalog-filter { display: none; }
 
 @media (max-width: 720px) {
   .resume-facts { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .resume-id { flex-direction: column; align-items: flex-start; gap: 16px; }
+  .resume-photo { width: 140px; }
   .resume-list > li { grid-template-columns: 1fr; gap: 6px; }
   .resume-projects { grid-template-columns: 1fr; }
   .resume-contacts div { grid-template-columns: 1fr; gap: 2px; }
